@@ -3,6 +3,10 @@ repo = "https://github.com/wildart/BoffinStuff.git"
 uuid = "78be8f42-883b-441c-9ce8-714b7da9a48e"
 description = "This registry contains various research projects."
 
+[packages.173e3a66-dd8a-5f2e-8a96-8b7ddc4d534d]
+name = "LMCLUS"
+path = "LMCLUS"
+
 [packages.ba71f38f-f508-439b-ac77-437f86a20aa1]
 name = "SmithNormalForm"
 path = "SmithNormalForm"
