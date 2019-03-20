@@ -11,6 +11,10 @@ path = "LMCLUS"
 name = "ClusterComplex"
 path = "ClusterComplex"
 
+[packages.fe47203d-f35f-412c-997c-af2409ec39e9]
+name = "TDA"
+path = "TDA"
+
 [packages.ba71f38f-f508-439b-ac77-437f86a20aa1]
 name = "SmithNormalForm"
 path = "SmithNormalForm"
