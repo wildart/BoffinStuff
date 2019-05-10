@@ -15,6 +15,10 @@ path = "ClusterComplex"
 name = "TDA"
 path = "TDA"
 
+[packages.bbce7156-959c-439b-994c-a81441c91ab7]
+name = "LinearManifoldCluster"
+path = "LinearManifoldCluster"
+
 [packages.ba71f38f-f508-439b-ac77-437f86a20aa1]
 name = "SmithNormalForm"
 path = "SmithNormalForm"
