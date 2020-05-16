@@ -15,6 +15,10 @@ path = "ClusterComplex"
 name = "TDA"
 path = "TDA"
 
+[packages.4dcdcac4-97b3-11ea-1633-e9fe81e35949]
+name = "NMoons"
+path = "NMoons"
+
 [packages.bbce7156-959c-439b-994c-a81441c91ab7]
 name = "LinearManifoldCluster"
 path = "LinearManifoldCluster"
