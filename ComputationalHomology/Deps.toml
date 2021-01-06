@@ -1,13 +1,16 @@
-["0.3.0-0.6.4"]
-Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
-BoundingSphere = "747eb165-47b8-53f2-ad32-9704a7dfc50a"
+["0.5.0-0.7.0"]
+Hungarian = "e91730f6-4275-51fb-a7a0-7064cfbd3b39"
 
-["0.2.0-0.6.4"]
+["0.2.0-0.7.0"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
 SmithNormalForm = "ba71f38f-f508-439b-ac77-437f86a20aa1"
 
-["0.5.0-0.6.4"]
-Hungarian = "e91730f6-4275-51fb-a7a0-7064cfbd3b39"
+["0.3.0-0.7.0"]
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+BoundingSphere = "747eb165-47b8-53f2-ad32-9704a7dfc50a"
+
+["0.7.0"]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
