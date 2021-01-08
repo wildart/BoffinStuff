@@ -1,14 +1,22 @@
-["0.4.0-0.7.0"]
-julia = "1.1.0-1"
-
 ["0.6.3"]
 Distances = "0.9"
 
 ["0.2.0"]
 SmithNormalForm = "0.2.1"
 
+["0.6.3-0.7.1"]
+BoundingSphere = "0.2"
+Hungarian = "0.6"
+SmithNormalForm = "0.3"
+
 ["0.4.0"]
 SmithNormalForm = "0.2.2"
+
+["0.4.0-0.7.1"]
+julia = "1.1.0-1"
+
+["0.7.0-0.7.1"]
+Combinatorics = "1"
 
 ["0.5.0"]
 BoundingSphere = "0.2.0-0.2"
@@ -16,13 +24,5 @@ Distances = "0.8.2-0.8"
 Hungarian = "0.6.0-0.6"
 SmithNormalForm = "0.3.0-0.3"
 
-["0.6.3-0.7.0"]
-BoundingSphere = "0.2"
-Hungarian = "0.6"
-SmithNormalForm = "0.3"
-
-["0.6.4-0.7.0"]
+["0.6.4-0.7.1"]
 Distances = "0.10"
-
-["0.7.0"]
-Combinatorics = "1"
