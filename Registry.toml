@@ -3,42 +3,46 @@ repo = "https://github.com/wildart/BoffinStuff.git"
 uuid = "78be8f42-883b-441c-9ce8-714b7da9a48e"
 description = "This registry contains various research projects."
 
-[packages.173e3a66-dd8a-5f2e-8a96-8b7ddc4d534d]
-name = "LMCLUS"
-path = "LMCLUS"
-
-[packages.a4b5195f-7e50-4300-9f38-3baf1bf3ac9e]
-name = "ClusterComplex"
-path = "ClusterComplex"
-
 [packages.06036fec-f111-485c-a690-0ab832ad5eb6]
 name = "PLMC"
 path = "PLMC"
 
-[packages.9918c206-6723-4052-8484-be78ce6c49bd]
-name = "MultivariateMixtures"
-path = "MultivariateMixtures"
-
-[packages.fe47203d-f35f-412c-997c-af2409ec39e9]
-name = "TDA"
-path = "TDA"
-
-[packages.4dcdcac4-97b3-11ea-1633-e9fe81e35949]
-name = "NMoons"
-path = "NMoons"
-
-[packages.bbce7156-959c-439b-994c-a81441c91ab7]
-name = "LinearManifoldCluster"
-path = "LinearManifoldCluster"
-
-[packages.ba71f38f-f508-439b-ac77-437f86a20aa1]
-name = "SmithNormalForm"
-path = "SmithNormalForm"
+[packages.1cb603db-ceb3-4202-a9b4-6121f2ad4096]
+name = "PairDistribution"
+path = "PairDistribution"
 
 [packages.9393a4d0-be1e-45b0-9991-b60434c721e6]
 name = "ComputationalHomology"
 path = "ComputationalHomology"
 
+[packages.173e3a66-dd8a-5f2e-8a96-8b7ddc4d534d]
+name = "LMCLUS"
+path = "LMCLUS"
+
+[packages.4dcdcac4-97b3-11ea-1633-e9fe81e35949]
+name = "NMoons"
+path = "NMoons"
+
+[packages.ba71f38f-f508-439b-ac77-437f86a20aa1]
+name = "SmithNormalForm"
+path = "SmithNormalForm"
+
 [packages.cd0d0d74-87e8-41df-8c2f-60e3fce673dd]
 name = "LinearManifoldModels"
 path = "LinearManifoldModels"
+
+[packages.a4b5195f-7e50-4300-9f38-3baf1bf3ac9e]
+name = "ClusterComplex"
+path = "ClusterComplex"
+
+[packages.9918c206-6723-4052-8484-be78ce6c49bd]
+name = "MultivariateMixtures"
+path = "MultivariateMixtures"
+
+[packages.bbce7156-959c-439b-994c-a81441c91ab7]
+name = "LinearManifoldCluster"
+path = "LinearManifoldCluster"
+
+[packages.fe47203d-f35f-412c-997c-af2409ec39e9]
+name = "TDA"
+path = "TDA"
